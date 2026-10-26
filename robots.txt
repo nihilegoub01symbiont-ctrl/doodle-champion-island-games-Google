@@ -1,0 +1,2 @@
+User-agent: Securly AI Chat
+Disallow: /
